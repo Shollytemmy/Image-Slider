@@ -2,3 +2,37 @@ img{
     width: 100%;
     height: 100%;
 }
+
+.app{
+    width: 100%;
+    max-width: 100%;
+}
+
+article{
+    position: relative;
+}
+
+.btn{
+    position: absolute;
+    border: none;
+    /* background-color: transparent; */
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+
+.btn-left{
+    top: 40%;
+    left: 5%;
+
+}
+
+.btn-right{
+    top: 40%;
+    right: 5%;
+
+}
+
+svg{
+    font-size: 28px;
+}
